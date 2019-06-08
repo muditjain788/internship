@@ -1,0 +1,16 @@
+TASK2 
+How to store data in ram into hard disk
+well i found this 
+There is ransomware or virus named cryptolocker which can be used 
+2.)THere is a concept of dumping the file
+ link=https://superuser.com/questions/1078293/can-you-copy-the-ram-contents-as-is-to-file-system-on-windows
+What is dumping ?
+In computing, a core dump, crash dump, memory dump, or system dump consists of the recorded state of the working memory of a computer program at a specific time, generally when the program has crashed or otherwise terminated abnormally. core dump is a file of a computer’s documented memory of when a program or computer crashed. The file consists of the recorded status of the working memory at an explicit time, usually close to when the system crashed or when the program ended atypically.
+
+Aside from the entire system memory or just part of the program that aborted, a core dump file may include additional information such as:
+
+    The processor's state
+    The processor register's contents
+    Memory management information
+    The program's counter and stack pointer
+    Operating system and processor information and flags
